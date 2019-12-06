@@ -1,0 +1,7 @@
+{
+    "require": {
+        "illuminate/support": "^6.6",
+        "symfony/var-dumper": "^5.0",
+        "phpunit/phpunit": "^8.5"
+    }
+}
